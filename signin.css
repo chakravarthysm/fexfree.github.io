@@ -1,0 +1,141 @@
+.firstpage {
+	background-image: url('images/car.png');height: 400px; background-repeat: round;
+}
+
+.drive {
+	margin-top: 14%;
+  	color: white;
+  	margin-left: 5%;
+  	margin-bottom: 5px;
+}
+
+.drive2 {
+	margin-left: 5%;
+  	color: white;
+  	font-weight: bold;
+  	margin-top: 5px;
+}
+
+.secondpage {
+	height: 400px;
+	background-color: rgba(246,246,246,246);
+}
+
+.content1 {
+	margin-top: 10%;
+  	margin-left: 7%;
+}
+
+.thirdpage {
+	background-image: url('images/second.png');height: 450px; background-repeat: round;
+}
+
+.abs {
+	  position: absolute;
+  top: -75px;
+  width: 550px;
+  right: -47px;
+}
+
+.fourthpage {
+	background-color: rgb(95,195,206);
+  	height: 400px;
+}
+
+.fifthpage {
+	height: 400px;
+  	background-color: rgb(239,82,82);
+}
+
+.sixthpage {
+	height: 400px;
+	 background: rgb(225, 243, 253);
+}
+
+.seventh {
+	height: 400px;
+	background: rgba(246,246,246,246);
+}
+
+.webclass {
+  -webkit-transform: rotate(180deg);
+  position: absolute;
+  left: -14px;
+}
+
+.eighth {
+	height: 380px;
+	background: rgb(89,179,213);
+	padding:0px;
+}
+
+.eightnhalf {
+	height: 104px;
+	background: rgb(76,155,185);
+	position: absolute;
+	bottom: 0px;
+}
+
+.forumimg {
+	  z-index: 4;
+  position: absolute;
+}
+
+.nineth {
+	height: 400px;
+	background: rgba(246,246,246,246);
+}
+
+.bookimg {
+	margin-top: 20%;
+  	margin-left: 20%;
+}
+
+.tenth {
+	height: 400px;
+	background: rgb(185,223,208);
+}
+
+.lastone {
+	  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 7%;
+}
+
+.last {
+	background-color: rgb(46,49,51);
+}
+
+.whitecolor {
+	color: white;
+}
+
+.fattext {
+	font-weight: 600;
+}
+
+.cusorp {
+	cursor: pointer;
+}
+
+.footerlast {
+	position: absolute;
+  	bottom: 0px;
+  	right: 0px;
+  	text-align: right;
+}
+
+.displayinline {
+	display: inline;
+}
+
+.marginright10 {
+	margin-right: 10px;
+}
+
+.abs2 {
+	  position: absolute;
+  right: 16%;
+  top: 100px;
+  width: 275px;
+}
